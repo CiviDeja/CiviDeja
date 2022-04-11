@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning JS, TypeScript and React.
 - 💞️ I’m looking to someone to teach me JS and maybe to work together in some project.
 - 📫 How to reach me:  pozarevac@yahoo.com - This is the email that I'm checking every day.
-- 📫 My greatest wish is to work on making games. :-)
+- 💞️ My greatest wish is to work on making games. :-)
